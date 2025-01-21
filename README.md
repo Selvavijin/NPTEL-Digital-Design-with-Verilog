@@ -56,5 +56,24 @@ let us take the expression x+x'y = x+y. Here, let us take the LHS, if we substit
 
 ![image](https://github.com/user-attachments/assets/13094a07-0ed7-43aa-b311-210ff7d902ae)
 
-![image](https://github.com/user-attachments/assets/1c0421d6-8ca0-4196-a65a-7560b7a7a55b)
+Week 1
+  Lecture 3 - Canonical forms of switching functions.
+
+  Canonical forms are useful in finding equaliance between two expressions in a unique way than solving it in a normal way.
+
+  The individual terms such as x'y'z' are called the minterms. And a minterm should have all the variables either in the normal or complemented form. 
+  ![image](https://github.com/user-attachments/assets/938cd66e-beb8-410a-b36a-156e1834b815)
+
+  ![image](https://github.com/user-attachments/assets/acf966a6-8ec0-42e0-ac99-d1f3b394a2c8)
+
+![image](https://github.com/user-attachments/assets/e75201a7-27b7-4086-b3e9-a2cb87228b6f)
+
+![image](https://github.com/user-attachments/assets/1c3bb333-fff1-4dcf-9cd2-d2e52b06f063)
+
+![image](https://github.com/user-attachments/assets/caf928af-77bb-472e-9848-be43c55ea54b)
+
+Here, T is given and to find the PoS we need the T'. Actually it is a 3 variable expression and there should be 8 minterms. For T, there is only 6 minterms, so, for T' the other minterms should be present. So, that is how it is solved.
+
+![image](https://github.com/user-attachments/assets/a7846427-6c25-44b4-9a2d-2716efc12e85)
+
 
