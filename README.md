@@ -76,4 +76,14 @@ Here, T is given and to find the PoS we need the T'. Actually it is a 3 variable
 
 ![image](https://github.com/user-attachments/assets/a7846427-6c25-44b4-9a2d-2716efc12e85)
 
+The number of variables in an expression can be given as 'n'. The number of minterms can be given as 2^n. And the the value of the minterm can be 0 or 1 so it can be given as 2^(2^n).
+
+![image](https://github.com/user-attachments/assets/a5e60bf0-aaec-45d4-886a-f383a9a61678)
+
+![image](https://github.com/user-attachments/assets/568d6236-23df-4d25-b19c-670c5d873c91)
+
+![image](https://github.com/user-attachments/assets/775f0fb0-e8d4-4a00-b6b4-35849091430c)
+
+![image](https://github.com/user-attachments/assets/173d39a2-fe97-4f0c-927e-d25abe729e7c)
+
 
