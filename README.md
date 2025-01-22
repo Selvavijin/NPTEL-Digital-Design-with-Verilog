@@ -86,4 +86,30 @@ The number of variables in an expression can be given as 'n'. The number of mint
 
 ![image](https://github.com/user-attachments/assets/173d39a2-fe97-4f0c-927e-d25abe729e7c)
 
+Week 1
+  Lecture 4 - Number systems
+
+  ![image](https://github.com/user-attachments/assets/0d2af51d-6f3f-49b9-bcaf-928030223f40)
+
+![image](https://github.com/user-attachments/assets/bd3fd1dd-1dfd-4771-b4a4-67b165c96ccd)
+
+![image](https://github.com/user-attachments/assets/a673bb91-d985-4ef7-ab4c-eb4a98057126)
+
+![image](https://github.com/user-attachments/assets/6d441408-5348-4ee4-bbf2-3dd43ba588af)
+
+![image](https://github.com/user-attachments/assets/9a3f6cb6-0d34-4903-a0c9-61886527563a)
+
+![image](https://github.com/user-attachments/assets/beadf954-5165-43dc-a16a-104cf760b07b)
+
+![image](https://github.com/user-attachments/assets/cb853e7d-7912-47d4-9440-82e5af06ff19)
+
+![image](https://github.com/user-attachments/assets/afffdf26-36a9-485d-b0de-aee6df1197e8)
+
+![image](https://github.com/user-attachments/assets/573ab56b-f0af-411d-95ae-0d5d5b468c1e)
+
+![image](https://github.com/user-attachments/assets/9e5a1a42-3870-4691-a653-8a8b2fbcf7e2)
+
+![image](https://github.com/user-attachments/assets/627b7dd4-5b72-4e39-8c47-f2588c66de8e)
+
+![image](https://github.com/user-attachments/assets/36565f46-7378-41db-921e-d9e60c9d79d2)
 
