@@ -113,3 +113,37 @@ Week 1
 
 ![image](https://github.com/user-attachments/assets/36565f46-7378-41db-921e-d9e60c9d79d2)
 
+Week 2
+  Lecture 5 - Binary Arithmetic
+
+ r's complement and (r-1)'s complement.
+
+  ![image](https://github.com/user-attachments/assets/3fd8747b-884c-4446-8f44-b5c52b455310)
+
+![image](https://github.com/user-attachments/assets/1017475b-28f2-41bc-87e5-89158005cc5b)
+
+![image](https://github.com/user-attachments/assets/2b822e23-5ba9-41ef-a2a8-9bf8125e98f2)
+
+![image](https://github.com/user-attachments/assets/8623f2d3-fff3-4069-9073-ef6ff3344901)
+
+![image](https://github.com/user-attachments/assets/4257426e-b319-4276-bc83-d69f0d49acec)
+
+![image](https://github.com/user-attachments/assets/47cd8a5a-065f-48e7-978d-98e67f6d8598)
+
+![image](https://github.com/user-attachments/assets/f9449be1-1362-4357-ae01-e004f3c2a423)
+
+Let us consider 4 bit and the range for it in unsigned form is from 0 to 15(0 to 2^(n-1)). In the signed form, the range is -7 to 7( -2^(n-1) to 2^(n-1)). The three ways of representing a negative sign number is shown below.
+
+![image](https://github.com/user-attachments/assets/9c898190-46eb-471d-b73c-e18865ebce64)
+
+If we are using 2's complement, we don't need to treat the sign bit(MSB) separately. We can treat it as other bits.
+
+![image](https://github.com/user-attachments/assets/1c4ace7b-7012-4637-9c3e-39ead8107ce3)
+
+![image](https://github.com/user-attachments/assets/e4e2f902-f494-422f-954c-62529260f01b)
+
+![image](https://github.com/user-attachments/assets/eb646e62-4907-4729-bac2-959caaec311d)
+
+![image](https://github.com/user-attachments/assets/18dc9554-4c8c-4318-b446-0ec2acbbb5f3)
+
+
