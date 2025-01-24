@@ -146,4 +146,31 @@ If we are using 2's complement, we don't need to treat the sign bit(MSB) separat
 
 ![image](https://github.com/user-attachments/assets/18dc9554-4c8c-4318-b446-0ec2acbbb5f3)
 
+Week 2
+  Lecture 6 - Binary codes
 
+  ![image](https://github.com/user-attachments/assets/894ba980-a9cd-4881-8981-b8d8d7a02752)
+
+![image](https://github.com/user-attachments/assets/0c201313-fa9f-4a46-81da-4d8fed78fdf0)
+
+![image](https://github.com/user-attachments/assets/6dc8e6a5-299d-4020-8987-7978906ce2d8)
+
+The difference with the 8421 code and the other weighted code is uniqueness. ie) in 8421 code, we can represent '2' in only one way '0010'. Whereas in 2421 code we can represent '2' as '1000' or '0010'. But for 2421 and 642-3 codes, they have self-complementing property. Eg: let us take 0001 in '2421' code and complement it, we get 1110. 0001=1 and 1110=8, so if we subtract 9-8 we get '1' and if we do 9-1 we get '8'. So, it is self-complementing. But, BCD is not self-complementing. If we add 2+4+2+1 we get 9 and 6+4+2-3=9. Thats why we have the self complementing property. If we add 8+4+2+1, we get 15. So, it is not self complementing.
+
+![image](https://github.com/user-attachments/assets/4870d512-1592-4e73-aa65-e9d1e8de5946)
+
+![image](https://github.com/user-attachments/assets/27c23228-3135-4a9a-9a46-bb1a9e2ad77f)
+
+Excess 3 codes are obtained from BCD by adding 3. But it is self-complementing and BCD is not self-complementing.
+
+![image](https://github.com/user-attachments/assets/8ff9c55d-4446-4725-8d8d-6d0884a46b4f)
+
+![image](https://github.com/user-attachments/assets/d6cf6733-cb18-459b-9609-cc44444acc98)
+
+![image](https://github.com/user-attachments/assets/e271540a-b406-456c-af8c-2dbe9272a3dc)
+
+Binary to gray code and gray code to binary conversion.
+
+![image](https://github.com/user-attachments/assets/9653d0bd-d1fb-4ac8-969e-7468e9f8dc9c)
+
+Gray code is cyclic code as well as reflected code.
