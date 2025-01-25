@@ -174,3 +174,13 @@ Binary to gray code and gray code to binary conversion.
 ![image](https://github.com/user-attachments/assets/9653d0bd-d1fb-4ac8-969e-7468e9f8dc9c)
 
 Gray code is cyclic code as well as reflected code.
+
+Week 2
+  Lecture 7 - Error Detection and Corrections Codes
+
+  ![image](https://github.com/user-attachments/assets/bb14d2cf-36f7-453c-96fa-93e819ff8cae)
+
+![image](https://github.com/user-attachments/assets/047d42dc-fc59-4ee9-a22e-0e8fc24e9c92)
+
+![image](https://github.com/user-attachments/assets/d0741d28-638f-4dca-8325-5fa773c8b0fa)
+
