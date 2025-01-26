@@ -178,9 +178,37 @@ Gray code is cyclic code as well as reflected code.
 Week 2
   Lecture 7 - Error Detection and Corrections Codes
 
+In error detectable code, the distance between the valid and the error code is 1. The distance between two valid codes is 2. So, if the the distance between two codes is 1, then it is an error code. 
+
   ![image](https://github.com/user-attachments/assets/bb14d2cf-36f7-453c-96fa-93e819ff8cae)
 
 ![image](https://github.com/user-attachments/assets/047d42dc-fc59-4ee9-a22e-0e8fc24e9c92)
 
 ![image](https://github.com/user-attachments/assets/d0741d28-638f-4dca-8325-5fa773c8b0fa)
+
+In error detecting code, we can only detect that a error is occured and we can resend the data. Next we will see the error correcting codes. If we find a error code and if we know that this error code is only reachable from a particular valid code, then we can easily correct it. In error correcting code, the distance between two valid codes is atleast 3.
+
+![image](https://github.com/user-attachments/assets/e692ff57-792a-474b-aee2-420f72bc48a6)
+
+![image](https://github.com/user-attachments/assets/b4078bb6-8c38-45b3-94c8-b07ef2f0a2be)
+
+![image](https://github.com/user-attachments/assets/e8796b00-f1eb-4688-8a2a-30602e6c2c96)
+
+![image](https://github.com/user-attachments/assets/50923778-39b5-4318-88b6-1db6c3f2fa7d)
+
+using this value of 'k', we can find the error that happen in any of the bits.
+
+![image](https://github.com/user-attachments/assets/6f188190-08fa-4633-9547-85cf50ca4e48)
+
+![image](https://github.com/user-attachments/assets/a3252cf8-8451-4623-8cd5-6606de0ebbf7)
+
+![image](https://github.com/user-attachments/assets/041bda43-8748-4535-9468-2d0abc2229bc)
+
+![image](https://github.com/user-attachments/assets/0acc640d-105d-4211-a0c0-ba4fe7e72d28)
+
+![image](https://github.com/user-attachments/assets/33361aae-8c89-4dcd-ab17-04dcd43be73c)
+
+![image](https://github.com/user-attachments/assets/aa97849b-1ede-4b96-b49f-d986048801da)
+
+![image](https://github.com/user-attachments/assets/ebc49463-0ea6-430f-9d53-a712bd92337f)
 
