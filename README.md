@@ -212,3 +212,13 @@ using this value of 'k', we can find the error that happen in any of the bits.
 
 ![image](https://github.com/user-attachments/assets/ebc49463-0ea6-430f-9d53-a712bd92337f)
 
+Week 3
+  Lecture 8 - Minimization of Switching functions-Karnaugh Map
+
+  When we implement this in hardware, it will take some time. We can also reduce this time. The main objective is to reduce the time and area. This time that we set depends on the critical path that is present. Here, the time of the critical path is 4 units. The number of gates will depend on the number of literals in the equation. So, the first objective is to reduce the literals present in the switching function so that the AND gate will gets reduced in case of SOP. The next objective should be reducing the number of product terms so that the number of OR gate will gets reduced. Eg: if there are 2 product terms, we need 1 AND gate. And if we have 3 product terms, we need 2 AND gates. This have more impact on delay, because these gates are connected in series and not in parallel. If the gates are in parallel(literals), then there will not be a more issue in delay, but the area will increase.
+
+![image](https://github.com/user-attachments/assets/d9ade6b6-6caf-4d55-9914-b41ae9540408)
+
+![image](https://github.com/user-attachments/assets/f972d63b-b42d-48ed-b6c8-73019e20820f)
+
+
