@@ -221,4 +221,11 @@ Week 3
 
 ![image](https://github.com/user-attachments/assets/f972d63b-b42d-48ed-b6c8-73019e20820f)
 
+If an expression is irredundant, it does not mean that it is the minimal expression. We can have multiple irredundant expression.
+
+![image](https://github.com/user-attachments/assets/5ed62bbb-beca-4539-a890-0373a0b14a54)
+
+![image](https://github.com/user-attachments/assets/524509b3-faf6-4f54-a714-3b666fe3b090)
+
+![image](https://github.com/user-attachments/assets/a1acf724-47fe-4c7a-ba57-109142f76845)
 
