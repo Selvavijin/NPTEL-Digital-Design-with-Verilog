@@ -229,3 +229,23 @@ If an expression is irredundant, it does not mean that it is the minimal express
 
 ![image](https://github.com/user-attachments/assets/a1acf724-47fe-4c7a-ba57-109142f76845)
 
+Week 3
+  Lecture 9 - Karnaugh Map
+
+  ![image](https://github.com/user-attachments/assets/7345e59e-1c5d-4047-877d-bb2b1ab17cd4)
+
+The best way to do the k-map is finding the smaller cubes(pairs) first and then proceeding to higher levels of grouping(four or eight). The reason is shown below.
+
+![image](https://github.com/user-attachments/assets/8ca2f81c-68b2-421d-b27f-03f5ca66a343)
+
+![image](https://github.com/user-attachments/assets/5977584c-f46b-4677-a82c-931b6a0472b5)
+
+![image](https://github.com/user-attachments/assets/20531b61-8a1e-4e76-b446-34a2e6b87b7a)
+
+![image](https://github.com/user-attachments/assets/7c970b11-739a-43d1-986d-a4dcca734fa9)
+
+![image](https://github.com/user-attachments/assets/06e485b8-6cbd-4802-ab49-7735b885515e)
+
+![image](https://github.com/user-attachments/assets/86aebd7c-1561-4431-bf44-8683068cb294)
+
+![image](https://github.com/user-attachments/assets/88287baa-aaef-4a9b-8aa1-b5413e385fab)
