@@ -249,3 +249,27 @@ The best way to do the k-map is finding the smaller cubes(pairs) first and then 
 ![image](https://github.com/user-attachments/assets/86aebd7c-1561-4431-bf44-8683068cb294)
 
 ![image](https://github.com/user-attachments/assets/88287baa-aaef-4a9b-8aa1-b5413e385fab)
+
+Week 3
+  Lecture 10 - Minimization of Switching functions-Properties
+
+  ![image](https://github.com/user-attachments/assets/9293f8f1-224d-483d-b93c-b33ac7dfc5c3)
+
+![image](https://github.com/user-attachments/assets/c4867a13-e260-4c7a-8cda-715955b71abb)
+
+![image](https://github.com/user-attachments/assets/bf7416a9-9193-4d87-ab7c-059729038299)
+
+![image](https://github.com/user-attachments/assets/60ff1d5b-9a36-4063-9424-51bf00dca07c)
+
+![image](https://github.com/user-attachments/assets/05fd301d-f355-4e66-8d1a-6e780cfb6859)
+
+![image](https://github.com/user-attachments/assets/ca2cf9a0-de58-4a92-bf04-dc4500373871)
+
+In the case where all are essential prime implicants, we have one unique minimal expression. Whereas in the second case we will have multiple minimal expressions.
+
+![image](https://github.com/user-attachments/assets/c97cebdc-e765-4f10-ac08-6b2a0a6aa8e2)
+
+![image](https://github.com/user-attachments/assets/0bdf7453-e8c9-46e6-9e3f-14f2222716c7)
+
+![image](https://github.com/user-attachments/assets/e94da5dc-dff2-46bc-8f57-1a4e271a8338)
+
