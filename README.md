@@ -273,3 +273,28 @@ In the case where all are essential prime implicants, we have one unique minimal
 
 ![image](https://github.com/user-attachments/assets/e94da5dc-dff2-46bc-8f57-1a4e271a8338)
 
+Week 3
+  Lecture 11 - Quine-McCluskey Method
+
+  ![image](https://github.com/user-attachments/assets/1efabd3a-c06c-4f44-8544-7f38f1129600)
+
+![image](https://github.com/user-attachments/assets/481895ff-f381-4d9d-8be6-158722b33592)
+
+![image](https://github.com/user-attachments/assets/30f43462-78a5-4521-8e6d-5fc3e346f478)
+
+![image](https://github.com/user-attachments/assets/9c9f7a01-83db-4d1d-8169-8da67ce53b7c)
+
+![image](https://github.com/user-attachments/assets/c78cb45b-93b4-4039-9eab-18401ca9e166)
+
+![image](https://github.com/user-attachments/assets/b2cc37e0-e297-435f-acf5-32fccfdf1da1)
+
+Essential prime implicants are the terms which are present for any minimal expressions.
+
+![image](https://github.com/user-attachments/assets/49726ef2-70da-43c2-ad7f-41be93a35124)
+
+![image](https://github.com/user-attachments/assets/67ac6c25-dc93-4ee2-beeb-44037bc0b485)
+
+![image](https://github.com/user-attachments/assets/c487972b-b2e9-4543-8ba1-5307f2a9e909)
+
+![image](https://github.com/user-attachments/assets/d87f7a51-1a73-4172-bffe-d82ca13fd6d7)
+
